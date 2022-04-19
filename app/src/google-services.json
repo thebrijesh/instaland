@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641532886284",
+    "project_id": "project1-7e14b",
+    "storage_bucket": "project1-7e14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641532886284:android:4f52042f1653bf1432dd29",
+        "android_client_info": {
+          "package_name": "com.example.instaland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641532886284-tkc5i8asa91pk3k1dfh7em5st5304q5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaland",
+            "certificate_hash": "63f7df3136e5dbe013e270a36b803fc80d096424"
+          }
+        },
+        {
+          "client_id": "641532886284-jilbrrcnon3alqp3esc012e9smsnu367.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPiJYkRSQGEaS9-62tPbrMbz9c8UtqXNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641532886284-jilbrrcnon3alqp3esc012e9smsnu367.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
